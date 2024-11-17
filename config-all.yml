@@ -1,1 +1,3 @@
-
+name: config-all
+properties:
+  key: value
